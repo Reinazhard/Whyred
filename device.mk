@@ -293,7 +293,8 @@ PRODUCT_PACKAGES += \
     init.recovery.qcom.rc \
     init.target.rc \
     ueventd.qcom.rc \
-    fstab.qcom
+    fstab.qcom \
+    fstab.qcom_ramdisk
 
 # IPACM
 PRODUCT_PACKAGES += \
